@@ -21,9 +21,7 @@
 </div>
 
 <h1>
-  Hi!! Its Pravin 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px" height="15px"/>
-  A Software Engineer!
+  Hi!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"/> Its Pravin, A Software Engineer!
 </h1>
 
 Wanna know more about me:
